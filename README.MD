@@ -5,7 +5,7 @@ and return id card info in json format
 #Installation
 First Install [Tesseract Executable]((https://github.com/UB-Mannheim/tesseract/wiki)) version 
 while installing add Arabic tessdata 
-<img src="https://user-images.githubusercontent.com/74266531/169664042-8fb1a519-3564-4852-a0e0-f840f58d219b.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/74266531/169664042-8fb1a519-3564-4852-a0e0-f840f58d219b.png" width="500" height="200" />
 
 add [tessdata_Arabic_Numbers](https://github.com/ahmed-tea/tessdata_Arabic_Numbers/) to your tessdata folder which is normally located at ``C:\Program Files\Tesseract-OCR\tessdata``
 Please install the requirements:
