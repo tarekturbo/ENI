@@ -14,10 +14,9 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-# Example of usage
-Request Example 
+#Request Example 
 ![carbon](https://user-images.githubusercontent.com/74266531/169664590-3ad0b1d8-a047-4672-9ba3-faddc974b0e4.png)
-Response Example
+#Response Example
 ![carbon (2)](https://user-images.githubusercontent.com/74266531/169664659-8740cf60-5dc3-4281-9f4c-697b55498311.png)
 ``Sensitive information are hidden``
 
