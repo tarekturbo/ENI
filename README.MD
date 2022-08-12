@@ -19,8 +19,8 @@ python app.py
 ## Request Example 
 ```python
 import requests
-url = "http://127.0.0.1:5000/reader" data = {
-"front":"base64ImageOfFrontofCard", "back":"base64ImageOfBackofCard"
+url = "http://127.0.0.1:5000/reader" 
+data = {"front":"base64ImageOfFrontofCard", "back":"base64ImageOfBackofCard"}
 resp = requests.post(url, json=data)
 print(resp.json())
 ```
