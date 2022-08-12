@@ -19,9 +19,12 @@ python app.py
 #Request Example 
 ![carbon](https://user-images.githubusercontent.com/74266531/169664590-3ad0b1d8-a047-4672-9ba3-faddc974b0e4.png)
 #Response Example
-![carbon (2)](https://user-images.githubusercontent.com/74266531/169664659-8740cf60-5dc3-4281-9f4c-697b55498311.png)
-``Sensitive information are hidden``
-
+```json
+{"birth": {
+"full": "11/11/2005", "year": "2005", "month": "11", "day": "11",
+"id": "3051111xxxxxxx", "name": "Tarek", "age": 16, "is_adult": false, "gender": "Male", "religion": "Muslim", "job": "Student", "province" : "cairo", "picture": "http://127.0.0.1:5000/picrute/xxxxxxxxxxxxxxxxxxxxxxx",
+"gray_picture": "https://localhost:5000/picture/xxxxxxxxxxxxxxxxxxxxxxx/gray"}}
+```
     
 
 
